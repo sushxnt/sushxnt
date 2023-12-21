@@ -1,4 +1,4 @@
-![Header](https://github.com/sushxnt/sushxnt/assets/91080978/1081ffdb-9a37-4b77-8ae7-8fe36792c243)
+
 
 
 <h1 align="center">Hi 👋, I'm Sushant</h1>
