@@ -1,3 +1,6 @@
+![Header](https://github.com/sushxnt/sushxnt/assets/91080978/1081ffdb-9a37-4b77-8ae7-8fe36792c243)
+
+
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">A passionate MERN stack dev!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
