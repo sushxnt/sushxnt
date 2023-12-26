@@ -5,7 +5,7 @@ MERN Stack Developer
 --------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushxnt&label=Profile%20views&color=0e75b6&style=flat" alt="sushxnt" /> </p>
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 * ✉️  You can contact me at [sushxnt@gmail.com](mailto:sushxnt@gmail.com)
 * 🧠  I'm learning MERN
