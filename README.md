@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sushant
 ===============================================================================================================================
 
-MERN Stack Developer
+
 --------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushxnt&label=Profile%20views&color=0e75b6&style=flat" alt="sushxnt" /> </p>
 
 As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 * ✉️  You can contact me at [sushxnt@gmail.com](mailto:sushxnt@gmail.com)
-* 🧠  I'm learning MERN
-* ⚡  A passionate MERN stack dev!
+* 🧠  
+* ⚡  
 
 <a href="https://www.github.com/sushxnt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sushxnt?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
