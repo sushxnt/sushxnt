@@ -8,8 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 As a computer engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 * ✉️  You can contact me at [sushxnt@gmail.com](mailto:sushxnt@gmail.com)
-* 🧠  
-* ⚡  
+* 🧠  Passionate in Penetration Testing and Cybersecurity.
+* ⚡  I'm currently learning networking and security.
 
 <a href="https://www.github.com/sushxnt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sushxnt?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
